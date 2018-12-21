@@ -1,0 +1,16 @@
+
+
+cycle=43647
+
+
+
+ADDR:VAL=80005ef0,IDX=80007e30,PTR=80001890,x0=80001a28,x1=80001bb8,y0=8002fb00,y1=8002f970,R=64,C=64,NNZ=7d0
+
+D$ Bytes Read:            51462
+D$ Bytes Written:         2672
+D$ Read Accesses:         12824
+D$ Write Accesses:        708
+D$ Read Misses:           567
+D$ Write Misses:          35
+D$ Writebacks:            25
+D$ Miss Rate:             4.449%

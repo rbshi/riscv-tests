@@ -3,6 +3,12 @@
 import sys
 
 def locate_para(addr, para_dir):
+    """
+
+    :param addr:
+    :param para_dir:
+    :return:
+    """
     for elem in para_dir:
         if type(para_dir[elem]) is tuple:
             if (addr >= para_dir[elem][0]) & (addr < para_dir[elem][1]):
