@@ -4,7 +4,7 @@ CFLAGS=-mcmodel=medany -std=gnu99 -O2 -fno-common -fno-builtin-printf -Wall
 LDFLAGS=-static -nostdlib -nostartfiles -lgcc
 
 # PROGRAMS = pwm blkdev accum charcount
-PROGRAMS = accum
+PROGRAMS = accum gemv
 
 default: $(addsuffix .riscv,$(PROGRAMS))
 
