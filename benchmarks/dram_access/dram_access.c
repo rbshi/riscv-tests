@@ -15,7 +15,7 @@ spike --dc=64:4:64:1 dram_test.riscv > ./dram_access/log
 // it's included in ../common/syscalls.c
 extern int printf(const char* fmt, ...);
 
-#define TEST_SIZE 10000
+#define TEST_SIZE 1000000
 
 int main( int argc, char* argv[] )
 {

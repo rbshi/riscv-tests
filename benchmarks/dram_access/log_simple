@@ -1,13 +1,13 @@
 
 
-cycle=3785908
+cycle=26486708
 
 x=0
-D$ Bytes Read:            7571711
-D$ Bytes Written:         873
-D$ Read Accesses:         946497
-D$ Write Accesses:        204
-D$ Read Misses:           117479
+D$ Bytes Read:            52973327
+D$ Bytes Written:         882
+D$ Read Accesses:         6621700
+D$ Write Accesses:        207
+D$ Read Misses:           827704
 D$ Write Misses:          12
 D$ Writebacks:            4
-D$ Miss Rate:             12.411%
+D$ Miss Rate:             12.500%
